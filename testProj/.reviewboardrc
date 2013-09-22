@@ -1,0 +1,6 @@
+REPOSITORY = 'git@git.polyvi.com:testing.git'
+REVIEWBOARD_URL = 'http://review.polyvi.com/reviews/'
+GUESS_FIELDS = 'true'
+TARGET_GROUPS = 'xFaceApolloCCGroup'
+USERNAME = 'luoq'
+PASSWORD = 'power77'
